@@ -1,6 +1,6 @@
 from square import square_num
 
 def test_square_num():
-    a = 3
+    a = 2
     res = square_num(a)
-    assert res == 9
+    assert res == 4
